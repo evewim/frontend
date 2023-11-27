@@ -1,0 +1,39 @@
+/*
+p {
+    background-color: rgb(76, 139, 139);
+    color: salmon;
+    font-size: 10px;
+    border: 10px dotted maroon;
+}
+h1{
+    
+    background-color: rgb(61, 44, 24); 
+    color: aliceblue; 
+    font-size: 55px; 
+    border: 10px solid grey"
+
+}
+
+#paragraf {
+background-color: antiquewhite;
+}
+
+.text {
+    background-color: rgb(54, 24, 83);
+}
+
+.text-description {
+    border: 5px solid rgb(82, 82, 33);
+}
+*/
+
+
+p{
+    background-color: red;
+}
+#paragraf {
+    background-color: blue;
+}
+.text-description {
+    background-color: green;
+}
